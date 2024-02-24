@@ -6,6 +6,7 @@ Please follow the TODO's.
 """
 
 # TODO: 0. we're missing some imports.
+from dataclasses import dataclass
 
 @dataclass
 class Option:
